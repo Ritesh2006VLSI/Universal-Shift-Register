@@ -4,14 +4,11 @@
 
 This project implements a **4-bit Universal Shift Register (USR)** using **Verilog HDL**.
 
-The design is created using a **modular bit-slice architecture**, where each bit is built
-
-using a **4:1 multiplexer and a D flip-flop**.
+The design is created using a **modular bit-slice architecture**, where each bit is builtusing a **4:1 multiplexer and a D flip-flop**.
 
 
 
 The Universal Shift Register can perform multiple operations such as holding data,
-
 shifting left, shifting right, and parallel loading, based on select control signals.
 
 
